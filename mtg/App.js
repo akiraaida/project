@@ -1,12 +1,25 @@
 import React from 'react';
 import { Text, View, TouchableOpacity } from 'react-native';
 import { Camera, Permissions } from 'expo';
+import firebase from 'firebase';
 
 export default class CameraExample extends React.Component {
   state = {
     hasCameraPermission: null,
     type: Camera.Constants.Type.back,
   };
+
+  componentWillMount() {
+      const config = {
+        apiKey: 'AIzaSyCY7cIGSXIkZ9OcNqkxZeC7US5CDyVICKo',
+        authDomain: 'magictg-ca164.firebaseapp.com',
+        databaseURL: 'https://magictg-ca164.firebaseio.com',
+        projectId: 'magictg-ca164',
+        storageBucket: 'magictg-ca164.appspot.com',
+        messagingSenderId: '96508376751'
+      };
+      firebase.initializeApp(config);
+  }
 
   async componentWillMount() {
     const { status } = await Permissions.askAsync(Permissions.CAMERA);
