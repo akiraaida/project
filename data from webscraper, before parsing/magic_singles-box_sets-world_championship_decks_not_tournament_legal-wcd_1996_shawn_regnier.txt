@@ -1,0 +1,731 @@
+<table border="0" class="invisible-table products_table" width="100%">
+<tr class="even product" id="product_90762">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/938153fada92198bd857bc43a30e29c5/large/abbey_gargoyles_zps522cfeb0.jpg" id="thumb90762" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/938153fada92198bd857bc43a30e29c5/thumb/abbey_gargoyles_zps522cfeb0.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90762">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/abbey_gargoyles/90762">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/abbey_gargoyles/90762">Abbey Gargoyles</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_456759">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.49 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/90762?vid=456759" method="POST" onsubmit="new Ajax.Request('/cart/add/90762?vid=456759', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90762_456759_qty" name="qty" size="1" tabindex="1" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90762_456759_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_456759" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_90763">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/991efad6d5373485d2317aa3b0d066aa/large/adarkar_wastes_zpsb1a9dd33.jpg" id="thumb90763" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/991efad6d5373485d2317aa3b0d066aa/thumb/adarkar_wastes_zpsb1a9dd33.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90763">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/adarkar_wastes/90763">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/adarkar_wastes/90763">Adarkar Wastes</a><br>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90763" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90763', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90763" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_90764">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/61ea5959b53c4a63c15e8045b21994cf/large/arensons_aura_zps01ea98f3.jpg" id="thumb90764" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/61ea5959b53c4a63c15e8045b21994cf/thumb/arensons_aura_zps01ea98f3.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90764">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/arensons_aura/90764">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/arensons_aura/90764">Arenson's Aura</a><br>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90764" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90764', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90764" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_90765">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/d8d95f8ebb39f49c0a3d2e971ee94ac4/large/balance_zps754365c4.jpg" id="thumb90765" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/d8d95f8ebb39f49c0a3d2e971ee94ac4/thumb/balance_zps754365c4.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90765">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/balance/90765">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/balance/90765">Balance</a><br>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 2.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90765" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90765', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90765" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_90766">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/44f80c624d6cff4d263d9e4c97e47a01/large/circle_of_protection_black_zpsf2d140cf.jpg" id="thumb90766" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/44f80c624d6cff4d263d9e4c97e47a01/thumb/circle_of_protection_black_zpsf2d140cf.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90766">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/circle_of_protection_black/90766">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/circle_of_protection_black/90766">Circle of Protection: Black</a><br>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.25</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90766" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90766', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90766" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_90767">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/cfa2772a6ba624c127f780ac7daf0d7c/large/circle_of_protection_red_zpsfe0c6d44.jpg" id="thumb90767" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/cfa2772a6ba624c127f780ac7daf0d7c/thumb/circle_of_protection_red_zpsfe0c6d44.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90767">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/circle_of_protection_red/90767">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/circle_of_protection_red/90767">Circle of Protection: Red</a><br>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.49</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90767" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90767', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90767" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_90768">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/e96b04d999289cd7aa2212286203adf6/large/city_of_brass_zps99c7bb71.jpg" id="thumb90768" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/e96b04d999289cd7aa2212286203adf6/thumb/city_of_brass_zps99c7bb71.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90768">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/city_of_brass/90768">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/city_of_brass/90768">City of Brass</a><br>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 2.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90768" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90768', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90768" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_90769">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/88db3c320e9c6c63d7663f68cee56140/large/counterspell_zpsa80f06c2.jpg" id="thumb90769" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/88db3c320e9c6c63d7663f68cee56140/thumb/counterspell_zpsa80f06c2.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90769">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/counterspell/90769">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/counterspell/90769">Counterspell</a><br>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90769" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90769', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90769" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_90770">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/f3cbe15518b5f4d63a37a4a0ce2aba0d/large/disenchant_zps24dbc4f7.jpg" id="thumb90770" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/f3cbe15518b5f4d63a37a4a0ce2aba0d/thumb/disenchant_zps24dbc4f7.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90770">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/disenchant/90770">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/disenchant/90770">Disenchant</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.49</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90770" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90770', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90770" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_90771">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/6864ed3fffb4abf6d1857f245211636b/large/divine_offering_zpsacb60de8.jpg" id="thumb90771" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/6864ed3fffb4abf6d1857f245211636b/thumb/divine_offering_zpsacb60de8.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90771">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/divine_offering/90771">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/divine_offering/90771">Divine Offering</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.49</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90771" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90771', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90771" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_90772">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/55996f1dd03af0f7b79106e1d9673912/large/feldons_cane_zpsf56d2e58.jpg" id="thumb90772" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/55996f1dd03af0f7b79106e1d9673912/thumb/feldons_cane_zpsf56d2e58.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90772">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/feldons_cane/90772">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/feldons_cane/90772">Feldon's Cane</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.79</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90772" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90772', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90772" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_90773">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/581738552e529b67be94fb2ae0d9f524/large/fountain_of_youth_zpsc8ba3dee.jpg" id="thumb90773" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/581738552e529b67be94fb2ae0d9f524/thumb/fountain_of_youth_zpsc8ba3dee.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90773">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/fountain_of_youth/90773">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/fountain_of_youth/90773">Fountain of Youth</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_456770">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.49 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/90773?vid=456770" method="POST" onsubmit="new Ajax.Request('/cart/add/90773?vid=456770', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90773_456770_qty" name="qty" size="1" tabindex="2" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90773_456770_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_456770" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_90774">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/45851b5d03bd92aa47973d10645d70bb/large/icy_manipulator_zps7ab405c0.jpg" id="thumb90774" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/45851b5d03bd92aa47973d10645d70bb/thumb/icy_manipulator_zps7ab405c0.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90774">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/icy_manipulator/90774">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/icy_manipulator/90774">Icy Manipulator</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.59</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90774" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90774', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90774" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_90775">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/17541a6318ca37d2ae5c3d91afc70801/large/island1_zpsf5190b11.jpg" id="thumb90775" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/17541a6318ca37d2ae5c3d91afc70801/thumb/island1_zpsf5190b11.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90775">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/island_version_1/90775">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/island_version_1/90775">Island (Version 1)</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90775" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90775', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90775" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_90776">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/46c13b1037742ed4ff9f351c2fbe50d9/large/island2_zpsff977f86.jpg" id="thumb90776" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/46c13b1037742ed4ff9f351c2fbe50d9/thumb/island2_zpsff977f86.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90776">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/island_version_2/90776">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/island_version_2/90776">Island (Version 2)</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90776" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90776', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90776" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_90777">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/b418cf8ff33a121a38e348e40501732c/large/island3_zpsc54820b4.jpg" id="thumb90777" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/b418cf8ff33a121a38e348e40501732c/thumb/island3_zpsc54820b4.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90777">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/island_version_3/90777">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/island_version_3/90777">Island (Version 3)</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.75</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90777" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90777', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90777" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_90778">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/3a9cfd30306f3c3ec4c6e07e2476a96b/large/ivory_tower_zps9fb3348b.jpg" id="thumb90778" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/3a9cfd30306f3c3ec4c6e07e2476a96b/thumb/ivory_tower_zps9fb3348b.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90778">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/ivory_tower/90778">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/ivory_tower/90778">Ivory Tower</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 1.29</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90778" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90778', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90778" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_90779">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/283fbdb04ad274db165172fef66bb6b0/large/land_tax_zpsf3094525.jpg" id="thumb90779" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/283fbdb04ad274db165172fef66bb6b0/thumb/land_tax_zpsf3094525.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90779">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/land_tax/90779">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/land_tax/90779">Land Tax</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 7.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90779" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90779', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90779" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_90780">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/0fd2991e5bb973738056cfe708dd60a8/large/memory_lapse1_zpsebfd1539.jpg" id="thumb90780" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/0fd2991e5bb973738056cfe708dd60a8/thumb/memory_lapse1_zpsebfd1539.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90780">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/memory_lapse_version_1/90780">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/memory_lapse_version_1/90780">Memory Lapse (Version 1)</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90780" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90780', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90780" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_90781">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/8e3db5bce09e13dc4b364e9d2d6165c1/large/memory_lapse2_zps7176fe6b.jpg" id="thumb90781" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/8e3db5bce09e13dc4b364e9d2d6165c1/thumb/memory_lapse2_zps7176fe6b.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90781">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/memory_lapse_version_2/90781">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/memory_lapse_version_2/90781">Memory Lapse (Version 2)</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.49</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90781" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90781', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90781" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_90782">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/08c77016f05bd30de4e63a39da739fb7/large/millstone_zps3d062848.jpg" id="thumb90782" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/08c77016f05bd30de4e63a39da739fb7/thumb/millstone_zps3d062848.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90782">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/millstone/90782">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/millstone/90782">Millstone</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.24</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90782" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90782', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90782" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_90783">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/906618ae276180a72ba80ae854db8ac9/large/mishras_factory_zpsc342fb51.jpg" id="thumb90783" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/906618ae276180a72ba80ae854db8ac9/thumb/mishras_factory_zpsc342fb51.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90783">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/mishras_factory/90783">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/mishras_factory/90783">Mishra's Factory</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 1.25</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90783" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90783', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90783" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_90784">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/7971f3e409e5ca480f7160322587631e/large/plains1_zpsfdd1858a.jpg" id="thumb90784" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/7971f3e409e5ca480f7160322587631e/thumb/plains1_zpsfdd1858a.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90784">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/plains_version_1/90784">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/plains_version_1/90784">Plains (Version 1)</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90784" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90784', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90784" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_90785">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/8a7c53f1daa21985db9f58f62faba853/large/plains2_zpsb7d1028d.jpg" id="thumb90785" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/8a7c53f1daa21985db9f58f62faba853/thumb/plains2_zpsb7d1028d.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90785">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/plains_version_2/90785">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/plains_version_2/90785">Plains (Version 2)</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90785" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90785', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90785" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_90786">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/a7caebbc5e916ebf081fd67e19210d58/large/plains3_zps6ac3bc95.jpg" id="thumb90786" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/a7caebbc5e916ebf081fd67e19210d58/thumb/plains3_zps6ac3bc95.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90786">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/plains_version_3/90786">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/plains_version_3/90786">Plains (Version 3)</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90786" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90786', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90786" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="HNAjREZVeenkDAy+obCVaZ7MIQokHMxkvjFsX1F0q4s="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+</table><table border="0" class="invisible-table products_table" width="100%">
+<tr class="even product" id="product_90787">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/7411d83ebb0aeb1a36ee0293e58b232e/large/power_sink_zps01677b3f.jpg" id="thumb90787" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/7411d83ebb0aeb1a36ee0293e58b232e/thumb/power_sink_zps01677b3f.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90787">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/power_sink/90787">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/power_sink/90787">Power Sink</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_456784">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.59 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/90787?vid=456784" method="POST" onsubmit="new Ajax.Request('/cart/add/90787?vid=456784', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90787_456784_qty" name="qty" size="1" tabindex="1" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90787_456784_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_456784" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="4krtAirA8hPFewkXT9jWQyX8t9+rYiEs0nrPXmAflJs="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_90788">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/c2d5524de6bfd6b2b46c9cbe75ed0a9e/large/recall_zpsc708ca88.jpg" id="thumb90788" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/c2d5524de6bfd6b2b46c9cbe75ed0a9e/thumb/recall_zpsc708ca88.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90788">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/recall/90788">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/recall/90788">Recall</a><br>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.65</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90788" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90788', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90788" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="4krtAirA8hPFewkXT9jWQyX8t9+rYiEs0nrPXmAflJs="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_90789">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/fb40d146ba37f4199d9a9e5ea7071bb7/large/ruins_of_trokair_zps4c1eb3c4.jpg" id="thumb90789" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/fb40d146ba37f4199d9a9e5ea7071bb7/thumb/ruins_of_trokair_zps4c1eb3c4.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90789">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/ruins_of_trokair/90789">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/ruins_of_trokair/90789">Ruins of Trokair</a><br>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.49</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90789" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90789', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90789" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="4krtAirA8hPFewkXT9jWQyX8t9+rYiEs0nrPXmAflJs="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_90790">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/8d7d65ea38a795e8f5d59c70c7cd49d1/large/sea_sprite_zps255d5ae6.jpg" id="thumb90790" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/8d7d65ea38a795e8f5d59c70c7cd49d1/thumb/sea_sprite_zps255d5ae6.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90790">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/sea_sprite/90790">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/sea_sprite/90790">Sea Sprite</a><br>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.49</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90790" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90790', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90790" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="4krtAirA8hPFewkXT9jWQyX8t9+rYiEs0nrPXmAflJs="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_90791">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/167457a807f92b4289e4552506d3816d/large/spell_blast_zpsd248322f.jpg" id="thumb90791" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/167457a807f92b4289e4552506d3816d/thumb/spell_blast_zpsd248322f.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90791">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/spell_blast/90791">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/spell_blast/90791">Spell Blast</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_456788">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.49 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/90791?vid=456788" method="POST" onsubmit="new Ajax.Request('/cart/add/90791?vid=456788', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90791_456788_qty" name="qty" size="1" tabindex="2" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90791_456788_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_456788" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="4krtAirA8hPFewkXT9jWQyX8t9+rYiEs0nrPXmAflJs="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_90792">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/062c4b4ceffc86de2660e7586620368d/large/steal_artifact_zpsc45fbcc4.jpg" id="thumb90792" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/062c4b4ceffc86de2660e7586620368d/thumb/steal_artifact_zpsc45fbcc4.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90792">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/steal_artifact/90792">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/steal_artifact/90792">Steal Artifact</a><br>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.49</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90792" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90792', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90792" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="4krtAirA8hPFewkXT9jWQyX8t9+rYiEs0nrPXmAflJs="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_90793">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/edde59527fecb563ec556a7434d5207e/large/svyelunite_temple_zps17bb7181.jpg" id="thumb90793" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/edde59527fecb563ec556a7434d5207e/thumb/svyelunite_temple_zps17bb7181.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90793">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/svyelunite_temple/90793">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/svyelunite_temple/90793">Svyelunite Temple</a><br>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.49</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90793" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90793', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90793" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="4krtAirA8hPFewkXT9jWQyX8t9+rYiEs0nrPXmAflJs="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_90794">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/8994b47a4db203cf7adcd0b3aadecff6/large/swords_to_plowshares_zps52eb2125.jpg" id="thumb90794" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/8994b47a4db203cf7adcd0b3aadecff6/thumb/swords_to_plowshares_zps52eb2125.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90794">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/swords_to_plowshares/90794">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/swords_to_plowshares/90794">Swords to Plowshares</a><br>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 1.49</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90794" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90794', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90794" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="4krtAirA8hPFewkXT9jWQyX8t9+rYiEs0nrPXmAflJs="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_90795">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/7d633b0dfb53174976288f4db73b64c2/large/truce_zpse2b6409b.jpg" id="thumb90795" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/7d633b0dfb53174976288f4db73b64c2/thumb/truce_zpse2b6409b.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90795">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/truce/90795">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/truce/90795">Truce</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90795" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90795', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90795" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="4krtAirA8hPFewkXT9jWQyX8t9+rYiEs0nrPXmAflJs="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_90796">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/36ed0ace2d6423b9de4c977bf034d223/large/wrath_of_god_zpsfe4d105b.jpg" id="thumb90796" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/36ed0ace2d6423b9de4c977bf034d223/thumb/wrath_of_god_zpsfe4d105b.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90796">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/wrath_of_god/90796">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/wrath_of_god/90796">Wrath of God</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 1.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90796" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90796', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90796" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="4krtAirA8hPFewkXT9jWQyX8t9+rYiEs0nrPXmAflJs="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_90797">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/a20151994fbd053f82ddf3bb404b4767/large/zuran_orb_zpsaa520cb3.jpg" id="thumb90797" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/a20151994fbd053f82ddf3bb404b4767/thumb/zuran_orb_zpsaa520cb3.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90797">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/zuran_orb/90797">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1996_shawn_regnier/zuran_orb/90797">Zuran Orb</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 0.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90797" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90797', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90797" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="4krtAirA8hPFewkXT9jWQyX8t9+rYiEs0nrPXmAflJs="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>

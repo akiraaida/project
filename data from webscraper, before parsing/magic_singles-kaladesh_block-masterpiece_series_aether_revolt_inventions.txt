@@ -1,0 +1,538 @@
+<table border="0" class="invisible-table products_table" width="100%">
+<tr class="even product" id="product_877493">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn1.crystalcommerce.com/photos/6333418/large/archboundravager.jpg" id="thumb877493" onclick="return hs.expand(this)"><img src="https://crystal-cdn2.crystalcommerce.com/photos/6333418/thumb/archboundravager.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877493">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/arcbound_ravager__foil/877493">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/arcbound_ravager__foil/877493">Arcbound Ravager - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9197243">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 239.99 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/877493?vid=9197243" method="POST" onsubmit="new Ajax.Request('/cart/add/877493?vid=9197243', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_877493_9197243_qty" name="qty" size="1" tabindex="1" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_877493_9197243_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9197243" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_877503">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn4.crystalcommerce.com/photos/6333419/large/blackvise.jpg" id="thumb877503" onclick="return hs.expand(this)"><img src="https://crystal-cdn1.crystalcommerce.com/photos/6333419/thumb/blackvise.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877503">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/black_vise__foil/877503">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/black_vise__foil/877503">Black Vise - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9197253">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 39.99 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/877503?vid=9197253" method="POST" onsubmit="new Ajax.Request('/cart/add/877503?vid=9197253', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_877503_9197253_qty" name="qty" size="1" tabindex="2" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_877503_9197253_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9197253" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_877513">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn1.crystalcommerce.com/photos/6333420/large/chaliceofthevoid.jpg" id="thumb877513" onclick="return hs.expand(this)"><img src="https://crystal-cdn2.crystalcommerce.com/photos/6333420/thumb/chaliceofthevoid.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877513">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/chalice_of_the_void__foil/877513">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/chalice_of_the_void__foil/877513">Chalice of the Void - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 279.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/877513" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/877513', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_877513" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_877523">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn3.crystalcommerce.com/photos/6333421/large/defensegrid.jpg" id="thumb877523" onclick="return hs.expand(this)"><img src="https://crystal-cdn4.crystalcommerce.com/photos/6333421/thumb/defensegrid.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877523">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/defense_grid__foil/877523">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/defense_grid__foil/877523">Defense Grid - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9197273">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 99.99 
+            	
+            </td>
+<td align="right" width="10%">x 2</td>
+<td align="right" width="35%"><form action="/cart/add/877523?vid=9197273" method="POST" onsubmit="new Ajax.Request('/cart/add/877523?vid=9197273', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_877523_9197273_qty" name="qty" size="1" tabindex="3" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_877523_9197273_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9197273" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_877563">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn2.crystalcommerce.com/photos/6333425/large/duplicant.jpg" id="thumb877563" onclick="return hs.expand(this)"><img src="https://crystal-cdn3.crystalcommerce.com/photos/6333425/thumb/duplicant.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877563">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/duplicant__foil/877563">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/duplicant__foil/877563">Duplicant - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9197313">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 57.99 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/877563?vid=9197313" method="POST" onsubmit="new Ajax.Request('/cart/add/877563?vid=9197313', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_877563_9197313_qty" name="qty" size="1" tabindex="4" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_877563_9197313_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9197313" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_877553">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn2.crystalcommerce.com/photos/6333424/large/engineeredexplosives.jpg" id="thumb877553" onclick="return hs.expand(this)"><img src="https://crystal-cdn2.crystalcommerce.com/photos/6333424/thumb/engineeredexplosives.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877553">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/engineered_explosives__foil/877553">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/engineered_explosives__foil/877553">Engineered Explosives - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 209.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/877553" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/877553', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_877553" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_877543">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn4.crystalcommerce.com/photos/6333423/large/ensnaringbridge.jpg" id="thumb877543" onclick="return hs.expand(this)"><img src="https://crystal-cdn2.crystalcommerce.com/photos/6333423/thumb/ensnaringbridge.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877543">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/ensnaring_bridge__foil/877543">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/ensnaring_bridge__foil/877543">Ensnaring Bridge - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9197293">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 249.99 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/877543?vid=9197293" method="POST" onsubmit="new Ajax.Request('/cart/add/877543?vid=9197293', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_877543_9197293_qty" name="qty" size="1" tabindex="5" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_877543_9197293_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9197293" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_877533">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn2.crystalcommerce.com/photos/6333422/large/extraplanarlens.jpg" id="thumb877533" onclick="return hs.expand(this)"><img src="https://crystal-cdn4.crystalcommerce.com/photos/6333422/thumb/extraplanarlens.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877533">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/extraplanar_lens__foil/877533">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/extraplanar_lens__foil/877533">Extraplanar Lens - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9197283">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 99.99 
+            	
+            </td>
+<td align="right" width="10%">x 2</td>
+<td align="right" width="35%"><form action="/cart/add/877533?vid=9197283" method="POST" onsubmit="new Ajax.Request('/cart/add/877533?vid=9197283', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_877533_9197283_qty" name="qty" size="1" tabindex="6" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_877533_9197283_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9197283" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_877573">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn1.crystalcommerce.com/photos/6333426/large/grindstone.jpg" id="thumb877573" onclick="return hs.expand(this)"><img src="https://crystal-cdn3.crystalcommerce.com/photos/6333426/thumb/grindstone.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877573">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/grindstone__foil/877573">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/grindstone__foil/877573">Grindstone - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9197323">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 64.99 
+            	
+            </td>
+<td align="right" width="10%">x 3</td>
+<td align="right" width="35%"><form action="/cart/add/877573?vid=9197323" method="POST" onsubmit="new Ajax.Request('/cart/add/877573?vid=9197323', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_877573_9197323_qty" name="qty" size="1" tabindex="7" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_877573_9197323_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9197323" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_877583">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn3.crystalcommerce.com/photos/6333427/large/meekstone.jpg" id="thumb877583" onclick="return hs.expand(this)"><img src="https://crystal-cdn2.crystalcommerce.com/photos/6333427/thumb/meekstone.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877583">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/meekstone__foil/877583">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/meekstone__foil/877583">Meekstone - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9208623">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 55.79 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/877583?vid=9208623" method="POST" onsubmit="new Ajax.Request('/cart/add/877583?vid=9208623', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_877583_9208623_qty" name="qty" size="1" tabindex="8" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_877583_9208623_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9208623" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_877593">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn2.crystalcommerce.com/photos/6333428/large/oblivionstone.jpg" id="thumb877593" onclick="return hs.expand(this)"><img src="https://crystal-cdn3.crystalcommerce.com/photos/6333428/thumb/oblivionstone.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877593">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/oblivion_stone__foil/877593">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/oblivion_stone__foil/877593">Oblivion Stone - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9197343">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 129.99 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/877593?vid=9197343" method="POST" onsubmit="new Ajax.Request('/cart/add/877593?vid=9197343', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_877593_9197343_qty" name="qty" size="1" tabindex="9" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_877593_9197343_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9197343" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_877603">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn2.crystalcommerce.com/photos/6333429/large/ornithopter.jpg" id="thumb877603" onclick="return hs.expand(this)"><img src="https://crystal-cdn1.crystalcommerce.com/photos/6333429/thumb/ornithopter.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877603">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/ornithopter__foil/877603">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/ornithopter__foil/877603">Ornithopter - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9208643">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 130.19 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/877603?vid=9208643" method="POST" onsubmit="new Ajax.Request('/cart/add/877603?vid=9208643', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_877603_9208643_qty" name="qty" size="1" tabindex="10" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_877603_9208643_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9208643" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_877723">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn2.crystalcommerce.com/photos/6333792/large/C0xNV3kXcAA4BZQ.jpg" id="thumb877723" onclick="return hs.expand(this)"><img src="https://crystal-cdn4.crystalcommerce.com/photos/6333792/thumb/C0xNV3kXcAA4BZQ.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877723">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/paradox_engine__foil/877723">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/paradox_engine__foil/877723">Paradox Engine - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 149.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/877723" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/877723', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_877723" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_877703">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn2.crystalcommerce.com/photos/6333439/large/pithingneedle.jpg" id="thumb877703" onclick="return hs.expand(this)"><img src="https://crystal-cdn3.crystalcommerce.com/photos/6333439/thumb/pithingneedle.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877703">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/pithing_needle__foil/877703">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/pithing_needle__foil/877703">Pithing Needle - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9197453">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 129.99 
+            	
+            </td>
+<td align="right" width="10%">x 2</td>
+<td align="right" width="35%"><form action="/cart/add/877703?vid=9197453" method="POST" onsubmit="new Ajax.Request('/cart/add/877703?vid=9197453', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_877703_9197453_qty" name="qty" size="1" tabindex="11" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_877703_9197453_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9197453" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_877713">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn4.crystalcommerce.com/photos/6333791/large/C0xNV38XEAAl-b_.jpg" id="thumb877713" onclick="return hs.expand(this)"><img src="https://crystal-cdn2.crystalcommerce.com/photos/6333791/thumb/C0xNV38XEAAl-b_.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877713">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/planar_bridge__foil/877713">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/planar_bridge__foil/877713">Planar Bridge - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9197463">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 89.99 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/877713?vid=9197463" method="POST" onsubmit="new Ajax.Request('/cart/add/877713?vid=9197463', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_877713_9197463_qty" name="qty" size="1" tabindex="12" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_877713_9197463_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9197463" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_877693">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn4.crystalcommerce.com/photos/6333438/large/platinumangel.jpg" id="thumb877693" onclick="return hs.expand(this)"><img src="https://crystal-cdn1.crystalcommerce.com/photos/6333438/thumb/platinumangel.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877693">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/platinum_angel__foil/877693">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/platinum_angel__foil/877693">Platinum Angel - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9197443">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 139.99 
+            	
+            </td>
+<td align="right" width="10%">x 2</td>
+<td align="right" width="35%"><form action="/cart/add/877693?vid=9197443" method="POST" onsubmit="new Ajax.Request('/cart/add/877693?vid=9197443', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_877693_9197443_qty" name="qty" size="1" tabindex="13" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_877693_9197443_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9197443" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_877613">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn1.crystalcommerce.com/photos/6333430/large/sphereofresistance.jpg" id="thumb877613" onclick="return hs.expand(this)"><img src="https://crystal-cdn1.crystalcommerce.com/photos/6333430/thumb/sphereofresistance.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877613">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/sphere_of_resistance__foil/877613">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/sphere_of_resistance__foil/877613">Sphere of Resistance - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9197363">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 119.99 
+            	
+            </td>
+<td align="right" width="10%">x 3</td>
+<td align="right" width="35%"><form action="/cart/add/877613?vid=9197363" method="POST" onsubmit="new Ajax.Request('/cart/add/877613?vid=9197363', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_877613_9197363_qty" name="qty" size="1" tabindex="14" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_877613_9197363_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9197363" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_877623">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn4.crystalcommerce.com/photos/6333431/large/staffofdomination.jpg" id="thumb877623" onclick="return hs.expand(this)"><img src="https://crystal-cdn1.crystalcommerce.com/photos/6333431/thumb/staffofdomination.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877623">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/staff_of_domination__foil/877623">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/staff_of_domination__foil/877623">Staff of Domination - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9197373">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 119.99 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/877623?vid=9197373" method="POST" onsubmit="new Ajax.Request('/cart/add/877623?vid=9197373', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_877623_9197373_qty" name="qty" size="1" tabindex="15" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_877623_9197373_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9197373" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_877643">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn4.crystalcommerce.com/photos/6333433/large/sunderingtitan.jpg" id="thumb877643" onclick="return hs.expand(this)"><img src="https://crystal-cdn3.crystalcommerce.com/photos/6333433/thumb/sunderingtitan.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877643">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/sundering_titan__foil/877643">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/sundering_titan__foil/877643">Sundering Titan - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 49.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/877643" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/877643', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_877643" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_877633">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn4.crystalcommerce.com/photos/6333432/large/swordofbodyandmind.jpg" id="thumb877633" onclick="return hs.expand(this)"><img src="https://crystal-cdn4.crystalcommerce.com/photos/6333432/thumb/swordofbodyandmind.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877633">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/sword_of_body_and_mind__foil/877633">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/sword_of_body_and_mind__foil/877633">Sword of Body and Mind - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9197383">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 119.99 
+            	
+            </td>
+<td align="right" width="10%">x 2</td>
+<td align="right" width="35%"><form action="/cart/add/877633?vid=9197383" method="POST" onsubmit="new Ajax.Request('/cart/add/877633?vid=9197383', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_877633_9197383_qty" name="qty" size="1" tabindex="16" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_877633_9197383_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9197383" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_9261250">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 111.59 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/877633?vid=9261250" method="POST" onsubmit="new Ajax.Request('/cart/add/877633?vid=9261250', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_877633_9261250_qty" name="qty" size="1" tabindex="17" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_877633_9261250_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9261250" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_877653">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn1.crystalcommerce.com/photos/6333434/large/swordofwarandpeace.jpg" id="thumb877653" onclick="return hs.expand(this)"><img src="https://crystal-cdn1.crystalcommerce.com/photos/6333434/thumb/swordofwarandpeace.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877653">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/sword_of_war_and_peace__foil/877653">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/sword_of_war_and_peace__foil/877653">Sword of War and Peace - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9197403">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 139.99 
+            	
+            </td>
+<td align="right" width="10%">x 2</td>
+<td align="right" width="35%"><form action="/cart/add/877653?vid=9197403" method="POST" onsubmit="new Ajax.Request('/cart/add/877653?vid=9197403', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_877653_9197403_qty" name="qty" size="1" tabindex="18" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_877653_9197403_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9197403" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_877663">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn4.crystalcommerce.com/photos/6333435/large/trinisphere.jpg" id="thumb877663" onclick="return hs.expand(this)"><img src="https://crystal-cdn3.crystalcommerce.com/photos/6333435/thumb/trinisphere.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877663">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/trinisphere__foil/877663">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/trinisphere__foil/877663">Trinisphere - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9197413">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 119.99 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/877663?vid=9197413" method="POST" onsubmit="new Ajax.Request('/cart/add/877663?vid=9197413', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_877663_9197413_qty" name="qty" size="1" tabindex="19" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_877663_9197413_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9197413" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_9396323">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 111.59 
+            	
+            </td>
+<td align="right" width="10%">x 2</td>
+<td align="right" width="35%"><form action="/cart/add/877663?vid=9396323" method="POST" onsubmit="new Ajax.Request('/cart/add/877663?vid=9396323', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_877663_9396323_qty" name="qty" size="1" tabindex="20" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_877663_9396323_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9396323" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_877673">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn1.crystalcommerce.com/photos/6333436/large/vedalkenshackles.jpg" id="thumb877673" onclick="return hs.expand(this)"><img src="https://crystal-cdn2.crystalcommerce.com/photos/6333436/thumb/vedalkenshackles.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877673">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/vedalken_shackles__foil/877673">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/vedalken_shackles__foil/877673">Vedalken Shackles - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9197423">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 89.99 
+            	
+            </td>
+<td align="right" width="10%">x 3</td>
+<td align="right" width="35%"><form action="/cart/add/877673?vid=9197423" method="POST" onsubmit="new Ajax.Request('/cart/add/877673?vid=9197423', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_877673_9197423_qty" name="qty" size="1" tabindex="21" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_877673_9197423_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9197423" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_877683">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn4.crystalcommerce.com/photos/6333437/large/wurmcoilengine.jpg" id="thumb877683" onclick="return hs.expand(this)"><img src="https://crystal-cdn3.crystalcommerce.com/photos/6333437/thumb/wurmcoilengine.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb877683">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/wurmcoil_engine__foil/877683">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_aether_revolt_inventions/wurmcoil_engine__foil/877683">Wurmcoil Engine - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9197433">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 179.99 
+            	
+            </td>
+<td align="right" width="10%">x 2</td>
+<td align="right" width="35%"><form action="/cart/add/877683?vid=9197433" method="POST" onsubmit="new Ajax.Request('/cart/add/877683?vid=9197433', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_877683_9197433_qty" name="qty" size="1" tabindex="22" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_877683_9197433_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9197433" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="vDLYOUvxYCzGakiDeiKg/scyRLeCE4zXa2w/whZX7bU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>

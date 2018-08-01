@@ -1,0 +1,843 @@
+<table border="0" class="invisible-table products_table" width="100%">
+<tr class="even product" id="product_842913">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn2.crystalcommerce.com/photos/6242173/large/aethervial.jpg" id="thumb842913" onclick="return hs.expand(this)"><img src="https://crystal-cdn4.crystalcommerce.com/photos/6242173/thumb/aethervial.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb842913">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/aether_vial__foil/842913">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/aether_vial__foil/842913">Aether Vial - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4692013">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 249.99 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/842913?vid=4692013" method="POST" onsubmit="new Ajax.Request('/cart/add/842913?vid=4692013', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_842913_4692013_qty" name="qty" size="1" tabindex="1" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_842913_4692013_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4692013" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_843163">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn3.crystalcommerce.com/photos/6242873/large/cataclysmicgearhulkpromo.jpg" id="thumb843163" onclick="return hs.expand(this)"><img src="https://crystal-cdn2.crystalcommerce.com/photos/6242873/thumb/cataclysmicgearhulkpromo.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb843163">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/cataclysmic_gearhulk__foil/843163">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/cataclysmic_gearhulk__foil/843163">Cataclysmic Gearhulk - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4692263">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 29.99 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/843163?vid=4692263" method="POST" onsubmit="new Ajax.Request('/cart/add/843163?vid=4692263', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_843163_4692263_qty" name="qty" size="1" tabindex="2" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_843163_4692263_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4692263" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_842923">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn2.crystalcommerce.com/photos/6242183/large/championshelm.jpg" id="thumb842923" onclick="return hs.expand(this)"><img src="https://crystal-cdn3.crystalcommerce.com/photos/6242183/thumb/championshelm.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb842923">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/champions_helm__foil/842923">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/champions_helm__foil/842923">Champion's Helm - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4692023">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 79.99 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/842923?vid=4692023" method="POST" onsubmit="new Ajax.Request('/cart/add/842923?vid=4692023', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_842923_4692023_qty" name="qty" size="1" tabindex="3" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_842923_4692023_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4692023" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_842933">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn3.crystalcommerce.com/photos/6242193/large/chromaticlantern.jpg" id="thumb842933" onclick="return hs.expand(this)"><img src="https://crystal-cdn4.crystalcommerce.com/photos/6242193/thumb/chromaticlantern.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb842933">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/chromatic_lantern__foil/842933">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/chromatic_lantern__foil/842933">Chromatic Lantern - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4692033">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 149.99 
+            	
+            </td>
+<td align="right" width="10%">x 2</td>
+<td align="right" width="35%"><form action="/cart/add/842933?vid=4692033" method="POST" onsubmit="new Ajax.Request('/cart/add/842933?vid=4692033', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_842933_4692033_qty" name="qty" size="1" tabindex="4" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_842933_4692033_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4692033" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_842943">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn3.crystalcommerce.com/photos/6242203/large/chromemox.jpg" id="thumb842943" onclick="return hs.expand(this)"><img src="https://crystal-cdn2.crystalcommerce.com/photos/6242203/thumb/chromemox.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb842943">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/chrome_mox__foil/842943">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/chrome_mox__foil/842943">Chrome Mox - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4692043">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 149.99 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/842943?vid=4692043" method="POST" onsubmit="new Ajax.Request('/cart/add/842943?vid=4692043', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_842943_4692043_qty" name="qty" size="1" tabindex="5" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_842943_4692043_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4692043" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_842953">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn3.crystalcommerce.com/photos/6242213/large/cloudstonecurio.jpg" id="thumb842953" onclick="return hs.expand(this)"><img src="https://crystal-cdn1.crystalcommerce.com/photos/6242213/thumb/cloudstonecurio.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb842953">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/cloudstone_curio__foil/842953">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/cloudstone_curio__foil/842953">Cloudstone Curio - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4692053">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 79.99 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/842953?vid=4692053" method="POST" onsubmit="new Ajax.Request('/cart/add/842953?vid=4692053', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_842953_4692053_qty" name="qty" size="1" tabindex="6" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_842953_4692053_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4692053" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_843153">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn1.crystalcommerce.com/photos/6242863/large/combustiblegearhulkpromo.jpg" id="thumb843153" onclick="return hs.expand(this)"><img src="https://crystal-cdn4.crystalcommerce.com/photos/6242863/thumb/combustiblegearhulkpromo.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb843153">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/combustible_gearhulk__foil/843153">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/combustible_gearhulk__foil/843153">Combustible Gearhulk - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4692253">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 49.99 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/843153?vid=4692253" method="POST" onsubmit="new Ajax.Request('/cart/add/843153?vid=4692253', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_843153_4692253_qty" name="qty" size="1" tabindex="7" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_843153_4692253_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4692253" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_9194143">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 46.49 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/843153?vid=9194143" method="POST" onsubmit="new Ajax.Request('/cart/add/843153?vid=9194143', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_843153_9194143_qty" name="qty" size="1" tabindex="8" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_843153_9194143_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9194143" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_842963">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn1.crystalcommerce.com/photos/6242223/large/crucibleofworlds.jpg" id="thumb842963" onclick="return hs.expand(this)"><img src="https://crystal-cdn2.crystalcommerce.com/photos/6242223/thumb/crucibleofworlds.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb842963">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/crucible_of_worlds__foil/842963">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/crucible_of_worlds__foil/842963">Crucible of Worlds - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9394593">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 213.89 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/842963?vid=9394593" method="POST" onsubmit="new Ajax.Request('/cart/add/842963?vid=9394593', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_842963_9394593_qty" name="qty" size="1" tabindex="9" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_842963_9394593_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9394593" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_842893">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn2.crystalcommerce.com/photos/6241853/large/gauntletofpower.jpg" id="thumb842893" onclick="return hs.expand(this)"><img src="https://crystal-cdn4.crystalcommerce.com/photos/6241853/thumb/gauntletofpower.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb842893">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/gauntlet_of_power__foil/842893">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/gauntlet_of_power__foil/842893">Gauntlet of Power - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4691993">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 89.99 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/842893?vid=4691993" method="POST" onsubmit="new Ajax.Request('/cart/add/842893?vid=4691993', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_842893_4691993_qty" name="qty" size="1" tabindex="10" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_842893_4691993_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4691993" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_4726363">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 83.69 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/842893?vid=4726363" method="POST" onsubmit="new Ajax.Request('/cart/add/842893?vid=4726363', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_842893_4726363_qty" name="qty" size="1" tabindex="11" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_842893_4726363_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4726363" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_842883">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn2.crystalcommerce.com/photos/6241843/large/hangarbackwalker.jpg" id="thumb842883" onclick="return hs.expand(this)"><img src="https://crystal-cdn1.crystalcommerce.com/photos/6241843/thumb/hangarbackwalker.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb842883">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/hangarback_walker__foil/842883">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/hangarback_walker__foil/842883">Hangarback Walker - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4691983">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 99.99 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/842883?vid=4691983" method="POST" onsubmit="new Ajax.Request('/cart/add/842883?vid=4691983', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_842883_4691983_qty" name="qty" size="1" tabindex="12" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_842883_4691983_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4691983" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_842973">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn3.crystalcommerce.com/photos/6242233/large/lightninggreaves.jpg" id="thumb842973" onclick="return hs.expand(this)"><img src="https://crystal-cdn4.crystalcommerce.com/photos/6242233/thumb/lightninggreaves.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb842973">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/lightning_greaves__foil/842973">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/lightning_greaves__foil/842973">Lightning Greaves - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4692073">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 149.99 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/842973?vid=4692073" method="POST" onsubmit="new Ajax.Request('/cart/add/842973?vid=4692073', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_842973_4692073_qty" name="qty" size="1" tabindex="13" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_842973_4692073_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4692073" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_842983">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn3.crystalcommerce.com/photos/6242243/large/lotuspetal.jpg" id="thumb842983" onclick="return hs.expand(this)"><img src="https://crystal-cdn1.crystalcommerce.com/photos/6242243/thumb/lotuspetal.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb842983">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/lotus_petal__foil/842983">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/lotus_petal__foil/842983">Lotus Petal - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4692083">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 179.99 
+            	
+            </td>
+<td align="right" width="10%">x 3</td>
+<td align="right" width="35%"><form action="/cart/add/842983?vid=4692083" method="POST" onsubmit="new Ajax.Request('/cart/add/842983?vid=4692083', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_842983_4692083_qty" name="qty" size="1" tabindex="14" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_842983_4692083_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4692083" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_842903">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn2.crystalcommerce.com/photos/6241863/large/manacrypt.jpg" id="thumb842903" onclick="return hs.expand(this)"><img src="https://crystal-cdn3.crystalcommerce.com/photos/6241863/thumb/manacrypt.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb842903">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/mana_crypt__foil/842903">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/mana_crypt__foil/842903">Mana Crypt - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 449.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/842903" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/842903', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_842903" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_842993">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn1.crystalcommerce.com/photos/6242253/large/manavault.jpg" id="thumb842993" onclick="return hs.expand(this)"><img src="https://crystal-cdn4.crystalcommerce.com/photos/6242253/thumb/manavault.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb842993">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/mana_vault__foil/842993">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/mana_vault__foil/842993">Mana Vault - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4692093">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 324.99 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/842993?vid=4692093" method="POST" onsubmit="new Ajax.Request('/cart/add/842993?vid=4692093', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_842993_4692093_qty" name="qty" size="1" tabindex="15" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_842993_4692093_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4692093" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_9259003">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 302.24 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/842993?vid=9259003" method="POST" onsubmit="new Ajax.Request('/cart/add/842993?vid=9259003', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_842993_9259003_qty" name="qty" size="1" tabindex="16" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_842993_9259003_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9259003" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_843003">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn3.crystalcommerce.com/photos/6242263/large/mindseye.jpg" id="thumb843003" onclick="return hs.expand(this)"><img src="https://crystal-cdn1.crystalcommerce.com/photos/6242263/thumb/mindseye.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb843003">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/minds_eye__foil/843003">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/minds_eye__foil/843003">Mind's Eye - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4692103">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 59.99 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/843003?vid=4692103" method="POST" onsubmit="new Ajax.Request('/cart/add/843003?vid=4692103', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_843003_4692103_qty" name="qty" size="1" tabindex="17" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_843003_4692103_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4692103" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_843013">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn1.crystalcommerce.com/photos/6242273/large/moxopal.jpg" id="thumb843013" onclick="return hs.expand(this)"><img src="https://crystal-cdn1.crystalcommerce.com/photos/6242273/thumb/moxopal.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb843013">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/mox_opal__foil/843013">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/mox_opal__foil/843013">Mox Opal - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9350563">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 418.49 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/843013?vid=9350563" method="POST" onsubmit="new Ajax.Request('/cart/add/843013?vid=9350563', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_843013_9350563_qty" name="qty" size="1" tabindex="18" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_843013_9350563_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9350563" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_843143">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn2.crystalcommerce.com/photos/6242853/large/noxiousgearhulkpromo.jpg" id="thumb843143" onclick="return hs.expand(this)"><img src="https://crystal-cdn2.crystalcommerce.com/photos/6242853/thumb/noxiousgearhulkpromo.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb843143">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/noxious_gearhulk__foil/843143">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/noxious_gearhulk__foil/843143">Noxious Gearhulk - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4692243">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 54.99 
+            	
+            </td>
+<td align="right" width="10%">x 3</td>
+<td align="right" width="35%"><form action="/cart/add/843143?vid=4692243" method="POST" onsubmit="new Ajax.Request('/cart/add/843143?vid=4692243', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_843143_4692243_qty" name="qty" size="1" tabindex="19" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_843143_4692243_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4692243" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_9205653">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 51.14 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/843143?vid=9205653" method="POST" onsubmit="new Ajax.Request('/cart/add/843143?vid=9205653', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_843143_9205653_qty" name="qty" size="1" tabindex="20" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_843143_9205653_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9205653" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_843023">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn1.crystalcommerce.com/photos/6242283/large/paintersservant.jpg" id="thumb843023" onclick="return hs.expand(this)"><img src="https://crystal-cdn3.crystalcommerce.com/photos/6242283/thumb/paintersservant.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb843023">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/painters_servant__foil/843023">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/painters_servant__foil/843023">Painter's Servant - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 89.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/843023" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/843023', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_843023" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_843033">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn4.crystalcommerce.com/photos/6242293/large/ringsofbrighthearth.jpg" id="thumb843033" onclick="return hs.expand(this)"><img src="https://crystal-cdn1.crystalcommerce.com/photos/6242293/thumb/ringsofbrighthearth.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb843033">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/rings_of_brighthearth__foil/843033">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/rings_of_brighthearth__foil/843033">Rings of Brighthearth - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4692133">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 119.99 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/843033?vid=4692133" method="POST" onsubmit="new Ajax.Request('/cart/add/843033?vid=4692133', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_843033_4692133_qty" name="qty" size="1" tabindex="21" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_843033_4692133_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4692133" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_843043">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn1.crystalcommerce.com/photos/6242303/large/scrollrack.jpg" id="thumb843043" onclick="return hs.expand(this)"><img src="https://crystal-cdn3.crystalcommerce.com/photos/6242303/thumb/scrollrack.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb843043">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/scroll_rack__foil/843043">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/scroll_rack__foil/843043">Scroll Rack - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4692143">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 119.99 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/843043?vid=4692143" method="POST" onsubmit="new Ajax.Request('/cart/add/843043?vid=4692143', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_843043_4692143_qty" name="qty" size="1" tabindex="22" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_843043_4692143_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4692143" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_4707083">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 111.59 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/843043?vid=4707083" method="POST" onsubmit="new Ajax.Request('/cart/add/843043?vid=4707083', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_843043_4707083_qty" name="qty" size="1" tabindex="23" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_843043_4707083_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4707083" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_843053">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn2.crystalcommerce.com/photos/6242313/large/sculptingsteel.jpg" id="thumb843053" onclick="return hs.expand(this)"><img src="https://crystal-cdn1.crystalcommerce.com/photos/6242313/thumb/sculptingsteel.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb843053">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/sculpting_steel__foil/843053">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/sculpting_steel__foil/843053">Sculpting Steel - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4692153">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 69.99 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/843053?vid=4692153" method="POST" onsubmit="new Ajax.Request('/cart/add/843053?vid=4692153', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_843053_4692153_qty" name="qty" size="1" tabindex="24" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_843053_4692153_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4692153" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_843063">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn3.crystalcommerce.com/photos/6242323/large/solring.jpg" id="thumb843063" onclick="return hs.expand(this)"><img src="https://crystal-cdn3.crystalcommerce.com/photos/6242323/thumb/solring.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb843063">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/sol_ring__foil/843063">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/sol_ring__foil/843063">Sol Ring - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 549.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/843063" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/843063', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_843063" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_1042243">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/b4198d50749611e8a3de471a07074d57/large/Sol Ring - NM - 0654.jpg" id="thumb1042243" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/b4198d50749611e8a3de471a07074d57/thumb/Sol Ring - NM - 0654.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb1042243">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/sol_ring__foil_scan_0654/1042243">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/sol_ring__foil_scan_0654/1042243">Sol Ring - Foil (Scan 0654)</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9487903">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 549.99 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/1042243?vid=9487903" method="POST" onsubmit="new Ajax.Request('/cart/add/1042243?vid=9487903', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_1042243_9487903_qty" name="qty" size="1" tabindex="25" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_1042243_9487903_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9487903" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_1042263">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/122812e0749711e8825dc72ea6337d6b/large/Sol Ring - NM - 0656.jpg" id="thumb1042263" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/122812e0749711e8825dc72ea6337d6b/thumb/Sol Ring - NM - 0656.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb1042263">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/sol_ring__foil_scan_0656/1042263">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/sol_ring__foil_scan_0656/1042263">Sol Ring - Foil (Scan 0656)</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9487923">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 549.99 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/1042263?vid=9487923" method="POST" onsubmit="new Ajax.Request('/cart/add/1042263?vid=9487923', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_1042263_9487923_qty" name="qty" size="1" tabindex="26" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_1042263_9487923_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9487923" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_1042273">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/2f28d910749711e89c7e314ae9c1b4eb/large/Sol Ring - NM - 0657.jpg" id="thumb1042273" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/2f28d910749711e89c7e314ae9c1b4eb/thumb/Sol Ring - NM - 0657.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb1042273">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/sol_ring__foil_scan_0657/1042273">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/sol_ring__foil_scan_0657/1042273">Sol Ring - Foil (Scan 0657)</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9487933">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 549.99 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/1042273?vid=9487933" method="POST" onsubmit="new Ajax.Request('/cart/add/1042273?vid=9487933', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_1042273_9487933_qty" name="qty" size="1" tabindex="27" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_1042273_9487933_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9487933" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="kxkYTge6Nay78TeGngbjveq6L/itv2k8ezAtYdp6Jq8="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+</table><table border="0" class="invisible-table products_table" width="100%">
+<tr class="even product" id="product_1013503">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/1190823/large/Sol Ring - NM - 0658.jpg?1524668489" id="thumb1013503" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/1190823/thumb/Sol Ring - NM - 0658.jpg?1524668489" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb1013503">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/sol_ring__foil_scan_0658/1013503">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/sol_ring__foil_scan_0658/1013503">Sol Ring - Foil (Scan 0658)</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9434423">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 549.99 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/1013503?vid=9434423" method="POST" onsubmit="new Ajax.Request('/cart/add/1013503?vid=9434423', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_1013503_9434423_qty" name="qty" size="1" tabindex="1" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_1013503_9434423_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9434423" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="2ZjloPlkbe9VTUY8wkErAu0WOxCtYaneO5iNIrddjkk="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_1017743">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/f0be66604d5c11e89dc3eba55ac91002/large/Sol Ring - NM - 0695.jpg" id="thumb1017743" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/f0be66604d5c11e89dc3eba55ac91002/thumb/Sol Ring - NM - 0695.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb1017743">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/sol_ring__foil_scan_0695/1017743">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/sol_ring__foil_scan_0695/1017743">Sol Ring - Foil (Scan 0695)</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9440433">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 549.99 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/1017743?vid=9440433" method="POST" onsubmit="new Ajax.Request('/cart/add/1017743?vid=9440433', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_1017743_9440433_qty" name="qty" size="1" tabindex="2" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_1017743_9440433_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9440433" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="2ZjloPlkbe9VTUY8wkErAu0WOxCtYaneO5iNIrddjkk="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_1017753">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/31c065f04d5d11e89c4e2f0814c691ce/large/Sol Ring - NM - 0696.jpg" id="thumb1017753" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/31c065f04d5d11e89c4e2f0814c691ce/thumb/Sol Ring - NM - 0696.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb1017753">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/sol_ring__foil_scan_0696/1017753">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/sol_ring__foil_scan_0696/1017753">Sol Ring - Foil (Scan 0696)</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9440443">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 549.99 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/1017753?vid=9440443" method="POST" onsubmit="new Ajax.Request('/cart/add/1017753?vid=9440443', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_1017753_9440443_qty" name="qty" size="1" tabindex="3" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_1017753_9440443_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9440443" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="2ZjloPlkbe9VTUY8wkErAu0WOxCtYaneO5iNIrddjkk="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_843073">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn1.crystalcommerce.com/photos/6242333/large/solemnsimulacrum.jpg" id="thumb843073" onclick="return hs.expand(this)"><img src="https://crystal-cdn2.crystalcommerce.com/photos/6242333/thumb/solemnsimulacrum.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb843073">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/solemn_simulacrum__foil/843073">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/solemn_simulacrum__foil/843073">Solemn Simulacrum - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 139.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/843073" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/843073', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_843073" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="2ZjloPlkbe9VTUY8wkErAu0WOxCtYaneO5iNIrddjkk="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_843083">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn1.crystalcommerce.com/photos/6242343/large/staticorb.jpg" id="thumb843083" onclick="return hs.expand(this)"><img src="https://crystal-cdn4.crystalcommerce.com/photos/6242343/thumb/staticorb.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb843083">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/static_orb__foil/843083">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/static_orb__foil/843083">Static Orb - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4692183">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 59.99 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/843083?vid=4692183" method="POST" onsubmit="new Ajax.Request('/cart/add/843083?vid=4692183', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_843083_4692183_qty" name="qty" size="1" tabindex="4" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_843083_4692183_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4692183" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="2ZjloPlkbe9VTUY8wkErAu0WOxCtYaneO5iNIrddjkk="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_843093">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn2.crystalcommerce.com/photos/6242353/large/steeloverseer.jpg" id="thumb843093" onclick="return hs.expand(this)"><img src="https://crystal-cdn3.crystalcommerce.com/photos/6242353/thumb/steeloverseer.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb843093">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/steel_overseer__foil/843093">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/steel_overseer__foil/843093">Steel Overseer - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_9229383">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 120.89 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/843093?vid=9229383" method="POST" onsubmit="new Ajax.Request('/cart/add/843093?vid=9229383', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_843093_9229383_qty" name="qty" size="1" tabindex="5" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_843093_9229383_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9229383" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="2ZjloPlkbe9VTUY8wkErAu0WOxCtYaneO5iNIrddjkk="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_843103">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn2.crystalcommerce.com/photos/6242363/large/swordoffeastandfamine.jpg" id="thumb843103" onclick="return hs.expand(this)"><img src="https://crystal-cdn2.crystalcommerce.com/photos/6242363/thumb/swordoffeastandfamine.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb843103">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/sword_of_feast_and_famine__foil/843103">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/sword_of_feast_and_famine__foil/843103">Sword of Feast and Famine - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4692203">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 189.99 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/843103?vid=4692203" method="POST" onsubmit="new Ajax.Request('/cart/add/843103?vid=4692203', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_843103_4692203_qty" name="qty" size="1" tabindex="6" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_843103_4692203_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4692203" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="2ZjloPlkbe9VTUY8wkErAu0WOxCtYaneO5iNIrddjkk="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_843113">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn4.crystalcommerce.com/photos/6242373/large/swordoffireandice.jpg" id="thumb843113" onclick="return hs.expand(this)"><img src="https://crystal-cdn1.crystalcommerce.com/photos/6242373/thumb/swordoffireandice.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb843113">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/sword_of_fire_and_ice__foil/843113">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/sword_of_fire_and_ice__foil/843113">Sword of Fire and Ice - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4692213">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 189.99 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/843113?vid=4692213" method="POST" onsubmit="new Ajax.Request('/cart/add/843113?vid=4692213', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_843113_4692213_qty" name="qty" size="1" tabindex="7" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_843113_4692213_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4692213" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="2ZjloPlkbe9VTUY8wkErAu0WOxCtYaneO5iNIrddjkk="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_843123">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn1.crystalcommerce.com/photos/6242383/large/swordoflightandshadow.jpg" id="thumb843123" onclick="return hs.expand(this)"><img src="https://crystal-cdn1.crystalcommerce.com/photos/6242383/thumb/swordoflightandshadow.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb843123">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/sword_of_light_and_shadow__foil/843123">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/sword_of_light_and_shadow__foil/843123">Sword of Light and Shadow - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4692223">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 129.99 
+            	
+            </td>
+<td align="right" width="10%">x 2</td>
+<td align="right" width="35%"><form action="/cart/add/843123?vid=4692223" method="POST" onsubmit="new Ajax.Request('/cart/add/843123?vid=4692223', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_843123_4692223_qty" name="qty" size="1" tabindex="8" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_843123_4692223_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4692223" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="2ZjloPlkbe9VTUY8wkErAu0WOxCtYaneO5iNIrddjkk="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_843133">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn3.crystalcommerce.com/photos/6242843/large/torrentialgearhulkpromo.jpg" id="thumb843133" onclick="return hs.expand(this)"><img src="https://crystal-cdn1.crystalcommerce.com/photos/6242843/thumb/torrentialgearhulkpromo.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb843133">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/torrential_gearhulk__foil/843133">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/torrential_gearhulk__foil/843133">Torrential Gearhulk - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4692233">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 69.99 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/843133?vid=4692233" method="POST" onsubmit="new Ajax.Request('/cart/add/843133?vid=4692233', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_843133_4692233_qty" name="qty" size="1" tabindex="9" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_843133_4692233_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4692233" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="2ZjloPlkbe9VTUY8wkErAu0WOxCtYaneO5iNIrddjkk="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_9208663">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 65.09 
+            	
+            </td>
+<td align="right" width="10%">x 2</td>
+<td align="right" width="35%"><form action="/cart/add/843133?vid=9208663" method="POST" onsubmit="new Ajax.Request('/cart/add/843133?vid=9208663', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_843133_9208663_qty" name="qty" size="1" tabindex="10" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_843133_9208663_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9208663" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="2ZjloPlkbe9VTUY8wkErAu0WOxCtYaneO5iNIrddjkk="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_842873">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn1.crystalcommerce.com/photos/6241833/large/verdurousgearhulkpromo.jpg" id="thumb842873" onclick="return hs.expand(this)"><img src="https://crystal-cdn2.crystalcommerce.com/photos/6241833/thumb/verdurousgearhulkpromo.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb842873">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/verdurous_gearhulk__foil/842873">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-kaladesh_block-masterpiece_series_kaladesh_inventions/verdurous_gearhulk__foil/842873">Verdurous Gearhulk - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4691973">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 39.99 
+            	
+            </td>
+<td align="right" width="10%">x 3</td>
+<td align="right" width="35%"><form action="/cart/add/842873?vid=4691973" method="POST" onsubmit="new Ajax.Request('/cart/add/842873?vid=4691973', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_842873_4691973_qty" name="qty" size="1" tabindex="11" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_842873_4691973_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4691973" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="2ZjloPlkbe9VTUY8wkErAu0WOxCtYaneO5iNIrddjkk="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_9189773">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 37.19 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/842873?vid=9189773" method="POST" onsubmit="new Ajax.Request('/cart/add/842873?vid=9189773', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_842873_9189773_qty" name="qty" size="1" tabindex="12" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_842873_9189773_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_9189773" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="2ZjloPlkbe9VTUY8wkErAu0WOxCtYaneO5iNIrddjkk="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>

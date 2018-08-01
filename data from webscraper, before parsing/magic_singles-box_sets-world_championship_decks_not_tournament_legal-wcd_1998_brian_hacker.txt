@@ -1,0 +1,589 @@
+<table border="0" class="invisible-table products_table" width="100%">
+<tr class="even product" id="product_90911">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/4ecb02660033cd285a65d47a3f66a204/large/abeyance_zps5cd3d650.jpg" id="thumb90911" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/4ecb02660033cd285a65d47a3f66a204/thumb/abeyance_zps5cd3d650.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90911">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/abeyance/90911">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/abeyance/90911">Abeyance</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4017293">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.92 
+            	
+            </td>
+<td align="right" width="10%">x 3</td>
+<td align="right" width="35%"><form action="/cart/add/90911?vid=4017293" method="POST" onsubmit="new Ajax.Request('/cart/add/90911?vid=4017293', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90911_4017293_qty" name="qty" size="1" tabindex="1" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90911_4017293_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4017293" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_90912">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/39d12751d87219100a00b0d00ceeca0f/large/armageddon_zps11570764.jpg" id="thumb90912" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/39d12751d87219100a00b0d00ceeca0f/thumb/armageddon_zps11570764.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90912">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/armageddon/90912">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/armageddon/90912">Armageddon</a><br>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 1.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/90912" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/90912', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_90912" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_90913">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/e90c2696e6f9731e0213ebbe32d20b15/large/aura_of_silence1_zps293576a2.jpg" id="thumb90913" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/e90c2696e6f9731e0213ebbe32d20b15/thumb/aura_of_silence1_zps293576a2.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90913">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/aura_of_silence_version_1/90913">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/aura_of_silence_version_1/90913">Aura of Silence (Version 1)</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_1097803">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.60 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/90913?vid=1097803" method="POST" onsubmit="new Ajax.Request('/cart/add/90913?vid=1097803', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90913_1097803_qty" name="qty" size="1" tabindex="2" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90913_1097803_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_1097803" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_90914">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/fc1edc9eb21ca6ec0110a510743d0135/large/aura_of_silence2_zps048ad7d6.jpg" id="thumb90914" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/fc1edc9eb21ca6ec0110a510743d0135/thumb/aura_of_silence2_zps048ad7d6.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90914">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/aura_of_silence_version_2/90914">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/aura_of_silence_version_2/90914">Aura of Silence (Version 2)</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_4017483">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.22 
+            	
+            </td>
+<td align="right" width="10%">x 2</td>
+<td align="right" width="35%"><form action="/cart/add/90914?vid=4017483" method="POST" onsubmit="new Ajax.Request('/cart/add/90914?vid=4017483', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90914_4017483_qty" name="qty" size="1" tabindex="3" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90914_4017483_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4017483" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_90915">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/3f262ecd67a2a83cce45b76967e38614/large/cataclysm_zps2d9e1084.jpg" id="thumb90915" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/3f262ecd67a2a83cce45b76967e38614/thumb/cataclysm_zps2d9e1084.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90915">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/cataclysm/90915">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/cataclysm/90915">Cataclysm</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_642734">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.55 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/90915?vid=642734" method="POST" onsubmit="new Ajax.Request('/cart/add/90915?vid=642734', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90915_642734_qty" name="qty" size="1" tabindex="4" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90915_642734_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_642734" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_90916">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/7217adbaa4721740d0956e8d6260244c/large/cursed_scroll_zpsd6670eda.jpg" id="thumb90916" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/7217adbaa4721740d0956e8d6260244c/thumb/cursed_scroll_zpsd6670eda.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90916">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/cursed_scroll/90916">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/cursed_scroll/90916">Cursed Scroll</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_1097813">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.70 
+            	
+            </td>
+<td align="right" width="10%">x 3</td>
+<td align="right" width="35%"><form action="/cart/add/90916?vid=1097813" method="POST" onsubmit="new Ajax.Request('/cart/add/90916?vid=1097813', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90916_1097813_qty" name="qty" size="1" tabindex="5" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90916_1097813_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_1097813" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_90917">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/86ce3606fa9b961ffca4e55fba70b701/large/disenchant1_zps2ada2e48.jpg" id="thumb90917" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/86ce3606fa9b961ffca4e55fba70b701/thumb/disenchant1_zps2ada2e48.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90917">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/disenchant_version_1/90917">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/disenchant_version_1/90917">Disenchant (Version 1)</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_456913">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.49 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/90917?vid=456913" method="POST" onsubmit="new Ajax.Request('/cart/add/90917?vid=456913', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90917_456913_qty" name="qty" size="1" tabindex="6" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90917_456913_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_456913" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_1097823">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.46 
+            	
+            </td>
+<td align="right" width="10%">x 2</td>
+<td align="right" width="35%"><form action="/cart/add/90917?vid=1097823" method="POST" onsubmit="new Ajax.Request('/cart/add/90917?vid=1097823', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90917_1097823_qty" name="qty" size="1" tabindex="7" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90917_1097823_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_1097823" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_90918">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/d1a97b22c0865200d96aae39a90323f2/large/disenchant2_zps6999e704.jpg" id="thumb90918" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/d1a97b22c0865200d96aae39a90323f2/thumb/disenchant2_zps6999e704.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90918">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/disenchant_version_2/90918">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/disenchant_version_2/90918">Disenchant (Version 2)</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_456914">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.49 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/90918?vid=456914" method="POST" onsubmit="new Ajax.Request('/cart/add/90918?vid=456914', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90918_456914_qty" name="qty" size="1" tabindex="8" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90918_456914_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_456914" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_1097833">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.46 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/90918?vid=1097833" method="POST" onsubmit="new Ajax.Request('/cart/add/90918?vid=1097833', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90918_1097833_qty" name="qty" size="1" tabindex="9" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90918_1097833_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_1097833" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_4017723">
+<td class="variantInfo" width="36%">Moderately Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.42 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/90918?vid=4017723" method="POST" onsubmit="new Ajax.Request('/cart/add/90918?vid=4017723', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90918_4017723_qty" name="qty" size="1" tabindex="10" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90918_4017723_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4017723" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_90919">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/3155bf0afdad82ddbecc1718cdcea06b/large/empyrial_armor_zps023ea533.jpg" id="thumb90919" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/3155bf0afdad82ddbecc1718cdcea06b/thumb/empyrial_armor_zps023ea533.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90919">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/empyrial_armor/90919">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/empyrial_armor/90919">Empyrial Armor</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_456915">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.49 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/90919?vid=456915" method="POST" onsubmit="new Ajax.Request('/cart/add/90919?vid=456915', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90919_456915_qty" name="qty" size="1" tabindex="11" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90919_456915_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_456915" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_1097843">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.46 
+            	
+            </td>
+<td align="right" width="10%">x 7</td>
+<td align="right" width="35%"><form action="/cart/add/90919?vid=1097843" method="POST" onsubmit="new Ajax.Request('/cart/add/90919?vid=1097843', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90919_1097843_qty" name="qty" size="1" tabindex="12" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90919_1097843_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_1097843" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_90920">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/2cd027355605e9810ff978bcc883a77f/large/nomads_en_kor_zps2b9e5296.jpg" id="thumb90920" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/2cd027355605e9810ff978bcc883a77f/thumb/nomads_en_kor_zps2b9e5296.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90920">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/nomads_enkor/90920">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/nomads_enkor/90920">Nomads en-Kor</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_1097853">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.46 
+            	
+            </td>
+<td align="right" width="10%">x 3</td>
+<td align="right" width="35%"><form action="/cart/add/90920?vid=1097853" method="POST" onsubmit="new Ajax.Request('/cart/add/90920?vid=1097853', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90920_1097853_qty" name="qty" size="1" tabindex="13" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90920_1097853_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_1097853" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_90921">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/d5691ce1c8f993246238ce81dc886bb6/large/paladin_en_vec_zps3160eaf9.jpg" id="thumb90921" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/d5691ce1c8f993246238ce81dc886bb6/thumb/paladin_en_vec_zps3160eaf9.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90921">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/paladin_envec/90921">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/paladin_envec/90921">Paladin en-Vec</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_1097863">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.46 
+            	
+            </td>
+<td align="right" width="10%">x 3</td>
+<td align="right" width="35%"><form action="/cart/add/90921?vid=1097863" method="POST" onsubmit="new Ajax.Request('/cart/add/90921?vid=1097863', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90921_1097863_qty" name="qty" size="1" tabindex="14" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90921_1097863_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_1097863" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_90922">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/59e6d75a0b98e443e14ec73ed0c604d1/large/plains1_zpse6d99024.jpg" id="thumb90922" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/59e6d75a0b98e443e14ec73ed0c604d1/thumb/plains1_zpse6d99024.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90922">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/plains_version_1/90922">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/plains_version_1/90922">Plains (Version 1)</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_456918">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.99 
+            	
+            </td>
+<td align="right" width="10%">x 2</td>
+<td align="right" width="35%"><form action="/cart/add/90922?vid=456918" method="POST" onsubmit="new Ajax.Request('/cart/add/90922?vid=456918', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90922_456918_qty" name="qty" size="1" tabindex="15" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90922_456918_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_456918" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_1097873">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.92 
+            	
+            </td>
+<td align="right" width="10%">x 5</td>
+<td align="right" width="35%"><form action="/cart/add/90922?vid=1097873" method="POST" onsubmit="new Ajax.Request('/cart/add/90922?vid=1097873', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90922_1097873_qty" name="qty" size="1" tabindex="16" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90922_1097873_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_1097873" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_90923">
+<td class="image" valign="top">
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/plains_version_2/90923">Plains (Version 2)</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_456919">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.99 
+            	
+            </td>
+<td align="right" width="10%">x 5</td>
+<td align="right" width="35%"><form action="/cart/add/90923?vid=456919" method="POST" onsubmit="new Ajax.Request('/cart/add/90923?vid=456919', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90923_456919_qty" name="qty" size="1" tabindex="17" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90923_456919_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_456919" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_1097883">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.92 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/90923?vid=1097883" method="POST" onsubmit="new Ajax.Request('/cart/add/90923?vid=1097883', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90923_1097883_qty" name="qty" size="1" tabindex="18" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90923_1097883_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_1097883" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_90924">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/3410ede2723d05b456f36a6b3afe40d1/large/plains3_zpsfd77dd75.jpg" id="thumb90924" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/3410ede2723d05b456f36a6b3afe40d1/thumb/plains3_zpsfd77dd75.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90924">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/plains_version_3/90924">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/plains_version_3/90924">Plains (Version 3)</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_456920">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.99 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/90924?vid=456920" method="POST" onsubmit="new Ajax.Request('/cart/add/90924?vid=456920', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90924_456920_qty" name="qty" size="1" tabindex="19" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90924_456920_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_456920" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_1097893">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.92 
+            	
+            </td>
+<td align="right" width="10%">x 9</td>
+<td align="right" width="35%"><form action="/cart/add/90924?vid=1097893" method="POST" onsubmit="new Ajax.Request('/cart/add/90924?vid=1097893', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90924_1097893_qty" name="qty" size="1" tabindex="20" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90924_1097893_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_1097893" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_90925">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/a05b16c60563bd1a54340b50d9ca02f6/large/plains4_zps4f58329c.jpg" id="thumb90925" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/a05b16c60563bd1a54340b50d9ca02f6/thumb/plains4_zps4f58329c.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90925">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/plains_version_4/90925">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/plains_version_4/90925">Plains (Version 4)</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_1097903">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 1.85 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/90925?vid=1097903" method="POST" onsubmit="new Ajax.Request('/cart/add/90925?vid=1097903', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90925_1097903_qty" name="qty" size="1" tabindex="21" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90925_1097903_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_1097903" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_90926">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/4a402cddd37593020526eafb8bf0c59c/large/soltari_monk_zps685830df.jpg" id="thumb90926" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/4a402cddd37593020526eafb8bf0c59c/thumb/soltari_monk_zps685830df.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90926">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/soltari_monk/90926">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/soltari_monk/90926">Soltari Monk</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_1097913">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.46 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/90926?vid=1097913" method="POST" onsubmit="new Ajax.Request('/cart/add/90926?vid=1097913', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90926_1097913_qty" name="qty" size="1" tabindex="22" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90926_1097913_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_1097913" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_90927">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/9813251398dca5dfb173a6cac3cd1d2e/large/soltari_priest_zpsef672cce.jpg" id="thumb90927" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/9813251398dca5dfb173a6cac3cd1d2e/thumb/soltari_priest_zpsef672cce.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90927">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/soltari_priest/90927">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/soltari_priest/90927">Soltari Priest</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_456923">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.49 
+            	
+            </td>
+<td align="right" width="10%">x 2</td>
+<td align="right" width="35%"><form action="/cart/add/90927?vid=456923" method="POST" onsubmit="new Ajax.Request('/cart/add/90927?vid=456923', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90927_456923_qty" name="qty" size="1" tabindex="23" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90927_456923_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_456923" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_1097923">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.46 
+            	
+            </td>
+<td align="right" width="10%">x 7</td>
+<td align="right" width="35%"><form action="/cart/add/90927?vid=1097923" method="POST" onsubmit="new Ajax.Request('/cart/add/90927?vid=1097923', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90927_1097923_qty" name="qty" size="1" tabindex="24" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90927_1097923_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_1097923" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_90928">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/202cff54027857a10165f306a4b601f0/large/soltari_visionary_zps598dbf80.jpg" id="thumb90928" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/202cff54027857a10165f306a4b601f0/thumb/soltari_visionary_zps598dbf80.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90928">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/soltari_visionary/90928">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/soltari_visionary/90928">Soltari Visionary</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_1097933">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.46 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/90928?vid=1097933" method="POST" onsubmit="new Ajax.Request('/cart/add/90928?vid=1097933', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90928_1097933_qty" name="qty" size="1" tabindex="25" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90928_1097933_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_1097933" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_90929">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/b9cf50cf2f1c3cd714f72cc484401f62/large/soul_warden_zpse1c306d5.jpg" id="thumb90929" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/b9cf50cf2f1c3cd714f72cc484401f62/thumb/soul_warden_zpse1c306d5.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90929">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/soul_warden/90929">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/soul_warden/90929">Soul Warden</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_1097943">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.46 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/90929?vid=1097943" method="POST" onsubmit="new Ajax.Request('/cart/add/90929?vid=1097943', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90929_1097943_qty" name="qty" size="1" tabindex="26" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90929_1097943_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_1097943" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_90930">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/c3c0bf71c999366e68fd93c8923e1fe3/large/spirit_link_zps8dac08f8.jpg" id="thumb90930" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/c3c0bf71c999366e68fd93c8923e1fe3/thumb/spirit_link_zps8dac08f8.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90930">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/spirit_link/90930">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/spirit_link/90930">Spirit Link</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_456926">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.49 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/90930?vid=456926" method="POST" onsubmit="new Ajax.Request('/cart/add/90930?vid=456926', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90930_456926_qty" name="qty" size="1" tabindex="27" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90930_456926_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_456926" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_4018443">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.46 
+            	
+            </td>
+<td align="right" width="10%">x 3</td>
+<td align="right" width="35%"><form action="/cart/add/90930?vid=4018443" method="POST" onsubmit="new Ajax.Request('/cart/add/90930?vid=4018443', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90930_4018443_qty" name="qty" size="1" tabindex="28" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90930_4018443_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_4018443" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_90931">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/64681ddd68d9ca8c637b11f6f2b343f0/large/tithe_zps0a1ee1f2.jpg" id="thumb90931" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/64681ddd68d9ca8c637b11f6f2b343f0/thumb/tithe_zps0a1ee1f2.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90931">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/tithe/90931">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/tithe/90931">Tithe</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_1097953">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.92 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/90931?vid=1097953" method="POST" onsubmit="new Ajax.Request('/cart/add/90931?vid=1097953', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90931_1097953_qty" name="qty" size="1" tabindex="29" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90931_1097953_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_1097953" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_90932">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/f21ab6d29a99e7d65146b6952e982fc1/large/warrior_en_kor_zpsfdb0185b.jpg" id="thumb90932" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/f21ab6d29a99e7d65146b6952e982fc1/thumb/warrior_en_kor_zpsfdb0185b.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90932">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/warrior_enkor/90932">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/warrior_enkor/90932">Warrior en-Kor</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_456928">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.49 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/90932?vid=456928" method="POST" onsubmit="new Ajax.Request('/cart/add/90932?vid=456928', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90932_456928_qty" name="qty" size="1" tabindex="30" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90932_456928_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_456928" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_1097963">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.46 
+            	
+            </td>
+<td align="right" width="10%">x 7</td>
+<td align="right" width="35%"><form action="/cart/add/90932?vid=1097963" method="POST" onsubmit="new Ajax.Request('/cart/add/90932?vid=1097963', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90932_1097963_qty" name="qty" size="1" tabindex="31" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90932_1097963_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_1097963" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_90933">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/275e6265bf8d4c697e30f49b99e826e0/large/white_knight_zps7ba9f4be.jpg" id="thumb90933" onclick="return hs.expand(this)"><img src="https://d1rw89lz12ur5s.cloudfront.net/photo/facetofacegames/file/275e6265bf8d4c697e30f49b99e826e0/thumb/white_knight_zps7ba9f4be.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb90933">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/white_knight/90933">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-world_championship_decks_not_tournament_legal-wcd_1998_brian_hacker/white_knight/90933">White Knight</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_456929">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.49 
+            	
+            </td>
+<td align="right" width="10%">x 3</td>
+<td align="right" width="35%"><form action="/cart/add/90933?vid=456929" method="POST" onsubmit="new Ajax.Request('/cart/add/90933?vid=456929', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90933_456929_qty" name="qty" size="1" tabindex="32" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90933_456929_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_456929" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_1097973">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.46 
+            	
+            </td>
+<td align="right" width="10%">x 8</td>
+<td align="right" width="35%"><form action="/cart/add/90933?vid=1097973" method="POST" onsubmit="new Ajax.Request('/cart/add/90933?vid=1097973', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_90933_1097973_qty" name="qty" size="1" tabindex="33" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_90933_1097973_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_1097973" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="8Mf/6GpMeaLnKriWHQCLLeWQElhixkxbLHVfnk28WPU="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>

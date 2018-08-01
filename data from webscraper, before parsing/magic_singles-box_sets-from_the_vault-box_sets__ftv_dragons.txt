@@ -1,0 +1,424 @@
+<table border="0" class="invisible-table products_table" width="100%">
+<tr class="even product" id="product_47158">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn4.crystalcommerce.com/photos/199225/large/r6XfgNEvBtVAYRZB.jpg" id="thumb47158" onclick="return hs.expand(this)"><img src="https://crystal-cdn3.crystalcommerce.com/photos/199225/thumb/r6XfgNEvBtVAYRZB.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb47158">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/bladewing_the_risen__foil/47158">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/bladewing_the_risen__foil/47158">Bladewing the Risen - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_45691">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 7.43 
+            	
+            </td>
+<td align="right" width="10%">x 6</td>
+<td align="right" width="35%"><form action="/cart/add/47158?vid=45691" method="POST" onsubmit="new Ajax.Request('/cart/add/47158?vid=45691', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47158_45691_qty" name="qty" size="1" tabindex="1" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47158_45691_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_45691" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_47159">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn3.crystalcommerce.com/photos/199226/large/6dwCq4LgdttOOrpe.jpg" id="thumb47159" onclick="return hs.expand(this)"><img src="https://crystal-cdn4.crystalcommerce.com/photos/199226/thumb/6dwCq4LgdttOOrpe.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb47159">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/bogardan_hellkite__foil/47159">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/bogardan_hellkite__foil/47159">Bogardan Hellkite - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_48345">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 1.99 
+            	
+            </td>
+<td align="right" width="10%">x 11</td>
+<td align="right" width="35%"><form action="/cart/add/47159?vid=48345" method="POST" onsubmit="new Ajax.Request('/cart/add/47159?vid=48345', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47159_48345_qty" name="qty" size="1" tabindex="2" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47159_48345_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_48345" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_49847">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 1.85 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/47159?vid=49847" method="POST" onsubmit="new Ajax.Request('/cart/add/47159?vid=49847', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47159_49847_qty" name="qty" size="1" tabindex="3" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47159_49847_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_49847" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_47160">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn3.crystalcommerce.com/photos/199227/large/Z2RyH4Ekrq4mcTkn.jpg" id="thumb47160" onclick="return hs.expand(this)"><img src="https://crystal-cdn4.crystalcommerce.com/photos/199227/thumb/Z2RyH4Ekrq4mcTkn.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb47160">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/draco__foil/47160">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/draco__foil/47160">Draco - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_48346">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 7.99 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/47160?vid=48346" method="POST" onsubmit="new Ajax.Request('/cart/add/47160?vid=48346', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47160_48346_qty" name="qty" size="1" tabindex="4" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47160_48346_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_48346" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_49855">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 7.43 
+            	
+            </td>
+<td align="right" width="10%">x 3</td>
+<td align="right" width="35%"><form action="/cart/add/47160?vid=49855" method="POST" onsubmit="new Ajax.Request('/cart/add/47160?vid=49855', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47160_49855_qty" name="qty" size="1" tabindex="5" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47160_49855_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_49855" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_47161">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn3.crystalcommerce.com/photos/199228/large/NgZAgAzWY2UWtK6Z.jpg" id="thumb47161" onclick="return hs.expand(this)"><img src="https://crystal-cdn4.crystalcommerce.com/photos/199228/thumb/NgZAgAzWY2UWtK6Z.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb47161">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/dragon_whelp__foil/47161">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/dragon_whelp__foil/47161">Dragon Whelp - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_48347">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.99 
+            	
+            </td>
+<td align="right" width="10%">x 9</td>
+<td align="right" width="35%"><form action="/cart/add/47161?vid=48347" method="POST" onsubmit="new Ajax.Request('/cart/add/47161?vid=48347', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47161_48347_qty" name="qty" size="1" tabindex="6" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47161_48347_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_48347" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_49863">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.92 
+            	
+            </td>
+<td align="right" width="10%">x 2</td>
+<td align="right" width="35%"><form action="/cart/add/47161?vid=49863" method="POST" onsubmit="new Ajax.Request('/cart/add/47161?vid=49863', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47161_49863_qty" name="qty" size="1" tabindex="7" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47161_49863_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_49863" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_2789243">
+<td class="variantInfo" width="36%">Moderately Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 0.84 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/47161?vid=2789243" method="POST" onsubmit="new Ajax.Request('/cart/add/47161?vid=2789243', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47161_2789243_qty" name="qty" size="1" tabindex="8" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47161_2789243_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_2789243" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_47162">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn1.crystalcommerce.com/photos/199229/large/sFNmtXghO7JnfTph.jpg" id="thumb47162" onclick="return hs.expand(this)"><img src="https://crystal-cdn2.crystalcommerce.com/photos/199229/thumb/sFNmtXghO7JnfTph.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb47162">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/dragonstorm__foil/47162">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/dragonstorm__foil/47162">Dragonstorm - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 3.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/47162" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/47162', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_47162" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_47163">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn2.crystalcommerce.com/photos/199230/large/CbmqKBHes8BBzZwV.jpg" id="thumb47163" onclick="return hs.expand(this)"><img src="https://crystal-cdn1.crystalcommerce.com/photos/199230/thumb/CbmqKBHes8BBzZwV.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb47163">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/ebon_dragon__foil/47163">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/ebon_dragon__foil/47163">Ebon Dragon - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_48348">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 3.99 
+            	
+            </td>
+<td align="right" width="10%">x 11</td>
+<td align="right" width="35%"><form action="/cart/add/47163?vid=48348" method="POST" onsubmit="new Ajax.Request('/cart/add/47163?vid=48348', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47163_48348_qty" name="qty" size="1" tabindex="9" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47163_48348_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_48348" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_47164">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn4.crystalcommerce.com/photos/199231/large/nMfOfacehLvMjMxq.jpg" id="thumb47164" onclick="return hs.expand(this)"><img src="https://crystal-cdn3.crystalcommerce.com/photos/199231/thumb/nMfOfacehLvMjMxq.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb47164">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/form_of_the_dragon__foil/47164">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/form_of_the_dragon__foil/47164">Form of the Dragon - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_41036">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 9.99 
+            	
+            </td>
+<td align="right" width="10%">x 6</td>
+<td align="right" width="35%"><form action="/cart/add/47164?vid=41036" method="POST" onsubmit="new Ajax.Request('/cart/add/47164?vid=41036', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47164_41036_qty" name="qty" size="1" tabindex="10" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47164_41036_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_41036" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_41041">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 9.29 
+            	
+            </td>
+<td align="right" width="10%">x 2</td>
+<td align="right" width="35%"><form action="/cart/add/47164?vid=41041" method="POST" onsubmit="new Ajax.Request('/cart/add/47164?vid=41041', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47164_41041_qty" name="qty" size="1" tabindex="11" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47164_41041_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_41041" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="odd product" id="product_47165">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn1.crystalcommerce.com/photos/199232/large/kuMOCpmqmByDrOgN.jpg" id="thumb47165" onclick="return hs.expand(this)"><img src="https://crystal-cdn2.crystalcommerce.com/photos/199232/thumb/kuMOCpmqmByDrOgN.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb47165">
+        Use arrow keys to navigate.<br>
+<a href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/hellkite_overlord__foil/47165">View Details</a>
+</br></div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/hellkite_overlord__foil/47165">Hellkite Overlord - Foil</a><br>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_48349">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 11.99 
+            	
+            </td>
+<td align="right" width="10%">x 6</td>
+<td align="right" width="35%"><form action="/cart/add/47165?vid=48349" method="POST" onsubmit="new Ajax.Request('/cart/add/47165?vid=48349', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47165_48349_qty" name="qty" size="1" tabindex="12" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47165_48349_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_48349" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_49879">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 11.15 
+            	
+            </td>
+<td align="right" width="10%">x 2</td>
+<td align="right" width="35%"><form action="/cart/add/47165?vid=49879" method="POST" onsubmit="new Ajax.Request('/cart/add/47165?vid=49879', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47165_49879_qty" name="qty" size="1" tabindex="13" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47165_49879_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_49879" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+</table>
+</br></td>
+</tr>
+<tr class="even product" id="product_47166">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn2.crystalcommerce.com/photos/199233/large/pWucdXQK5HqDSdqL.jpg" id="thumb47166" onclick="return hs.expand(this)"><img src="https://crystal-cdn1.crystalcommerce.com/photos/199233/thumb/pWucdXQK5HqDSdqL.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb47166">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/kokusho_the_evening_star__foil/47166">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/kokusho_the_evening_star__foil/47166">Kokusho, the Evening Star - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_41045">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 19.99 
+            	
+            </td>
+<td align="right" width="10%">x 2</td>
+<td align="right" width="35%"><form action="/cart/add/47166?vid=41045" method="POST" onsubmit="new Ajax.Request('/cart/add/47166?vid=41045', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47166_41045_qty" name="qty" size="1" tabindex="14" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47166_41045_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_41045" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_41051">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 18.59 
+            	
+            </td>
+<td align="right" width="10%">x 5</td>
+<td align="right" width="35%"><form action="/cart/add/47166?vid=41051" method="POST" onsubmit="new Ajax.Request('/cart/add/47166?vid=41051', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47166_41051_qty" name="qty" size="1" tabindex="15" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47166_41051_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_41051" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_47167">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn3.crystalcommerce.com/photos/199234/large/CA3AATXyV4kYqr7S.jpg" id="thumb47167" onclick="return hs.expand(this)"><img src="https://crystal-cdn4.crystalcommerce.com/photos/199234/thumb/CA3AATXyV4kYqr7S.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb47167">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/nicol_bolas__foil/47167">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/nicol_bolas__foil/47167">Nicol Bolas - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_41054">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 79.99 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/47167?vid=41054" method="POST" onsubmit="new Ajax.Request('/cart/add/47167?vid=41054', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47167_41054_qty" name="qty" size="1" tabindex="16" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47167_41054_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_41054" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_41059">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 74.39 
+            	
+            </td>
+<td align="right" width="10%">x 3</td>
+<td align="right" width="35%"><form action="/cart/add/47167?vid=41059" method="POST" onsubmit="new Ajax.Request('/cart/add/47167?vid=41059', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47167_41059_qty" name="qty" size="1" tabindex="17" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47167_41059_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_41059" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_47168">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn1.crystalcommerce.com/photos/199235/large/h2hv7LSWVLVLZvnP.jpg" id="thumb47168" onclick="return hs.expand(this)"><img src="https://crystal-cdn2.crystalcommerce.com/photos/199235/thumb/h2hv7LSWVLVLZvnP.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb47168">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/nivmizzet_the_firemind__foil/47168">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/nivmizzet_the_firemind__foil/47168">Niv-Mizzet, the Firemind - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_48350">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 6.99 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/47168?vid=48350" method="POST" onsubmit="new Ajax.Request('/cart/add/47168?vid=48350', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47168_48350_qty" name="qty" size="1" tabindex="18" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47168_48350_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_48350" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_49888">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 6.50 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/47168?vid=49888" method="POST" onsubmit="new Ajax.Request('/cart/add/47168?vid=49888', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47168_49888_qty" name="qty" size="1" tabindex="19" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47168_49888_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_49888" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_47169">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn4.crystalcommerce.com/photos/199236/large/NadEEvySWY78bc6b.jpg" id="thumb47169" onclick="return hs.expand(this)"><img src="https://crystal-cdn3.crystalcommerce.com/photos/199236/thumb/NadEEvySWY78bc6b.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb47169">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/rith_the_awakener__foil/47169">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/rith_the_awakener__foil/47169">Rith, the Awakener - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_48351">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 12.99 
+            	
+            </td>
+<td align="right" width="10%">x 5</td>
+<td align="right" width="35%"><form action="/cart/add/47169?vid=48351" method="POST" onsubmit="new Ajax.Request('/cart/add/47169?vid=48351', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47169_48351_qty" name="qty" size="1" tabindex="20" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47169_48351_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_48351" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_49895">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 12.08 
+            	
+            </td>
+<td align="right" width="10%">x 4</td>
+<td align="right" width="35%"><form action="/cart/add/47169?vid=49895" method="POST" onsubmit="new Ajax.Request('/cart/add/47169?vid=49895', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47169_49895_qty" name="qty" size="1" tabindex="21" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47169_49895_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_49895" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_47170">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn2.crystalcommerce.com/photos/199237/large/7EgjeZazqnqTb8NJ.jpg" id="thumb47170" onclick="return hs.expand(this)"><img src="https://crystal-cdn1.crystalcommerce.com/photos/199237/thumb/7EgjeZazqnqTb8NJ.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb47170">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/shivan_dragon__foil/47170">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/shivan_dragon__foil/47170">Shivan Dragon - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_41000">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 3.99 
+            	
+            </td>
+<td align="right" width="10%">x 8</td>
+<td align="right" width="35%"><form action="/cart/add/47170?vid=41000" method="POST" onsubmit="new Ajax.Request('/cart/add/47170?vid=41000', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47170_41000_qty" name="qty" size="1" tabindex="22" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47170_41000_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_41000" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_41005">
+<td class="variantInfo" width="36%">Slightly Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 3.71 
+            	
+            </td>
+<td align="right" width="10%">x 2</td>
+<td align="right" width="35%"><form action="/cart/add/47170?vid=41005" method="POST" onsubmit="new Ajax.Request('/cart/add/47170?vid=41005', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47170_41005_qty" name="qty" size="1" tabindex="23" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47170_41005_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_41005" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+<tr class="variantRow" id="variant_2789773">
+<td class="variantInfo" width="36%">Moderately Played, English</td>
+<td align="right" class="price" width="19%">CAD$ 3.39 
+            	
+            </td>
+<td align="right" width="10%">x 1</td>
+<td align="right" width="35%"><form action="/cart/add/47170?vid=2789773" method="POST" onsubmit="new Ajax.Request('/cart/add/47170?vid=2789773', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47170_2789773_qty" name="qty" size="1" tabindex="24" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47170_2789773_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_2789773" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="odd product" id="product_47171">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn2.crystalcommerce.com/photos/199238/large/D6LJ3zM65rqqhCF2.jpg" id="thumb47171" onclick="return hs.expand(this)"><img src="https://crystal-cdn1.crystalcommerce.com/photos/199238/thumb/D6LJ3zM65rqqhCF2.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb47171">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/thunder_dragon__foil/47171">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/thunder_dragon__foil/47171">Thunder Dragon - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr>
+<td class="variantInfo" width="36%"><em>No conditions in stock.</em></td>
+<td align="right" width="19%">CAD$ 3.99</td>
+<td align="right" width="10%"></td>
+<td align="right" width="35%"><form action="/user/wishlist_add/47171" method="POST" onsubmit="new Ajax.Request('/user/wishlist_add/47171', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input class="add_to_wishlist" id="add_to_wishlist_47171" name="commit" type="submit" value="Wishlist"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr class="even product" id="product_47172">
+<td class="image" valign="top">
+<a class="highslide thumbnail" href="https://crystal-cdn4.crystalcommerce.com/photos/199239/large/dkLVVAyRQ6gUTaEc.jpg" id="thumb47172" onclick="return hs.expand(this)"><img src="https://crystal-cdn3.crystalcommerce.com/photos/199239/thumb/dkLVVAyRQ6gUTaEc.jpg" title="Click to enlarge"/></a>
+<div class="highslide-caption product_controls" id="caption-for-thumb47172">
+        Use arrow keys to navigate.<br/>
+<a href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/twoheaded_dragon__foil/47172">View Details</a>
+</div>
+</td>
+<td class="meta" valign="top" width="100%">
+<a class="name" href="/catalog/magic_singles-box_sets-from_the_vault-box_sets__ftv_dragons/twoheaded_dragon__foil/47172">Two-Headed Dragon - Foil</a><br/>
+<table class="invisible-table" width="100%">
+<tr class="variantRow" id="variant_41018">
+<td class="variantInfo" width="36%">NM-Mint, English</td>
+<td align="right" class="price" width="19%">CAD$ 2.99 
+            	
+            </td>
+<td align="right" width="10%">x 2</td>
+<td align="right" width="35%"><form action="/cart/add/47172?vid=41018" method="POST" onsubmit="new Ajax.Request('/cart/add/47172?vid=41018', {asynchronous:true, evalScripts:true, method:'post', parameters:Form.serialize(this)});return false;"><input id="item_47172_41018_qty" name="qty" size="1" tabindex="25" type="text" value="0"/><a href="#" onclick="add_amount_to_field($('item_47172_41018_qty'),1); return false"><img alt="Add" class="plus_button" height="16" src="http://cdn1.crystalcommerce.com/images/icons/16x16/shadow/add.png?1291146674" width="16"/></a><input class="add_to_cart catalog" id="add_to_cart_41018" name="commit" type="submit" value="Add to Cart"/><input name="authenticity_token" type="hidden" value="T/JPM22Zw4JmgHaP57NHQ0m2QoJDQMoNcxsisEQ5xEo="/></form></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
